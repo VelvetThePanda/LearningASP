@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning ASP Web", "Learning ASP Web\Learning ASP Web.csproj", "{FC6CEFF2-50ED-4204-B368-5153D36AEBAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC6CEFF2-50ED-4204-B368-5153D36AEBAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC6CEFF2-50ED-4204-B368-5153D36AEBAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC6CEFF2-50ED-4204-B368-5153D36AEBAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC6CEFF2-50ED-4204-B368-5153D36AEBAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
